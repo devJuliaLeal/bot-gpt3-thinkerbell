@@ -1,6 +1,7 @@
 # bot-gpt3-thinkerbell
 
 Esse é um bot que utiliza a inteligência do GPT-3 e funciona no telegram. 
+This is a bot that uses the intelligence of GPT-3 and works on telegram.
 
 aiohttp==3.8.4
 aiosignal==1.3.1

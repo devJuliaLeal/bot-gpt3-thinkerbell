@@ -27,3 +27,5 @@ yarl==1.8.2
 
 Para configurá-lo basta inserir sua chave api (que você consegue acessando o site openai e requisitando uma) 
 e o id do bot do Telegram no arquivo Keys.py
+To configure it, just insert your api key (which you can access the openai website and request one)
+and Telegram bot id in Keys.py file
